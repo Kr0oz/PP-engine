@@ -9,7 +9,7 @@ Is an FNF Engine that fufills all your modding needs and makes modding easier ov
   </tr>
   <tr>
     <td>
-      <img src="art/Kr0oz.gif" alt="Kr0oz" width="90" height="90">
+      <img src="art/Kr0oz.png" alt="Kr0oz" width="90" height="90">
     </td>
   </tr>
   <tr>
