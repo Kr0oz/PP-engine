@@ -13,8 +13,8 @@ Is an FNF Engine that fufills all your modding needs and makes modding easier ov
     </td>
   </tr>
   <tr>
-    <td>Director, Main Artist/Animator,
-      Programmer, Charter,
+    <td>Director, Main Artist/Animator,<br>
+      Programmer, Charter,<br>
       and Musician.</td>
   </tr>
 </table>
