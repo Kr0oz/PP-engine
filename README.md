@@ -13,7 +13,9 @@ Is an FNF Engine that fufills all your modding needs and makes modding easier ov
     </td>
   </tr>
   <tr>
-    <td>Director, Main Artist/Animator, Programmer, Charter, and Musician.</td>
+    <td>Director, Main Artist/Animator,
+      Programmer, Charter,
+      and Musician.</td>
   </tr>
 </table>
 Special thanks to Kaye
