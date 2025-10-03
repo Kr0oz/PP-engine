@@ -1,7 +1,7 @@
 # PP Engine [ WIP ]
 Is an FNF Engine that fufills all your modding needs and makes modding easier overall. <br>
 Starting of with Zeroth, A evil dark jigglypuff that is a rockstar <br>
-![PP engine Banner](PPengine.png)
+![PPengine](PPengine.png)
 
 # PP Crew
 <table style="width:90%">
@@ -10,7 +10,7 @@ Starting of with Zeroth, A evil dark jigglypuff that is a rockstar <br>
   </tr>
   <tr>
     <td>
-      <img src="art/Kr0oz.png" alt="Kr0oz" width="90" height="90">
+      <img src="art/Kr0oz.gif" alt="Kr0oz" width="90" height="90">
     </td>
   </tr>
   <tr>
