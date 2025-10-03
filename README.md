@@ -1,6 +1,5 @@
 # PP Engine [ WIP ]
 Is an FNF Engine that fufills all your modding needs and makes modding easier overall. <br>
-Starting of with Zeroth, A evil dark jigglypuff that is a rockstar <br>
 ![PPengine](PPengine.png)
 
 # PP Crew
